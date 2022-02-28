@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @daltonnesmith
 - 👀 I’m interested in cloud software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on starter projects to learn
+- Just starting Microsoft Software and Systems Academy 
 - 📫 How to reach me email is cool
 
 <!---
